@@ -1,5 +1,7 @@
 # Evaluacion2Django
 Evaluación 2 Django 
+Aqui estan todos los commits en total ya que no se subieron todos a github
+
 3c1182b (HEAD) Agregamos codigo a archivo post_list.html
 
 0a89aaa Archivo post_list.html editado
